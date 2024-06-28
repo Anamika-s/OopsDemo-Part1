@@ -78,10 +78,6 @@ namespace OopsDemo
                 student.DisplayDetails();
             }
            
-
-
-
-
         }
     }
 }
